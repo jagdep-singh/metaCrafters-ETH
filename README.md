@@ -41,3 +41,6 @@ To use this contract, you need to deploy it on a compatible Ethereum Virtual Mac
 2. Burning Tokens:
    - Call the `burn` function and provide the address from which the tokens should be burned (`_address`) and the amount of tokens to burn (`_value`).
    - This will decrease the total supply and subtract the burned tokens from the balance of the specified address if the balance is sufficient.
+
+## License
+   This project is licensed under the MIT License - see the LICENSE.md file for details
