@@ -1,4 +1,4 @@
-# metaCrafters-ETH
+# metaCrafters-ETH Beginner
 # MyToken Contract
 
 This is a Solidity smart contract that implements a basic token called MyToken. 
